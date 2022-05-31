@@ -68,7 +68,8 @@
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 50px;
-  border-radius: 24px;
+  font-size: 40px;
+  border-radius: 35px;
   border-color: #16b88f;
+  margin-top: 20px;
 }
